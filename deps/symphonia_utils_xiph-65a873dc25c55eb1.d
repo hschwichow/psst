@@ -1,0 +1,10 @@
+/home/hennifant/Development/psst/target/release/deps/libsymphonia_utils_xiph-65a873dc25c55eb1.rmeta: /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/lib.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/mod.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/metadata.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/vorbis/mod.rs
+
+/home/hennifant/Development/psst/target/release/deps/libsymphonia_utils_xiph-65a873dc25c55eb1.rlib: /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/lib.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/mod.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/metadata.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/vorbis/mod.rs
+
+/home/hennifant/Development/psst/target/release/deps/symphonia_utils_xiph-65a873dc25c55eb1.d: /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/lib.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/mod.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/metadata.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/vorbis/mod.rs
+
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/lib.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/mod.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/flac/metadata.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.3/src/vorbis/mod.rs:

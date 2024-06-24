@@ -1,0 +1,18 @@
+/home/hennifant/Development/psst/target/release/deps/libunic_bidi-dd6d957678bfb396.rmeta: /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs
+
+/home/hennifant/Development/psst/target/release/deps/libunic_bidi-dd6d957678bfb396.rlib: /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs
+
+/home/hennifant/Development/psst/target/release/deps/unic_bidi-dd6d957678bfb396.d: /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs /home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs
+
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs:
+/home/hennifant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs:
+
+# env-dep:CARGO_PKG_DESCRIPTION=UNIC — Unicode Bidirectional Algorithm
+# env-dep:CARGO_PKG_NAME=unic-bidi
+# env-dep:CARGO_PKG_VERSION=0.9.0
